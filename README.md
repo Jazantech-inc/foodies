@@ -1,13 +1,3 @@
-# Food Ninja - Tailwind CSS
-
-A recipe website to understand Tailwind CSS basics.
-
-[See Demo on CodePen](https://codepen.io/solygambas/full/bGqpPJJ)
-
-<p align="center">
-    <img src="screenshot.png">
-</p>
-
 ## Features
 
 - setting up Tailwind CSS for development.
@@ -18,5 +8,3 @@ A recipe website to understand Tailwind CSS basics.
 - displaying icons from Heroicons.
 - building a responsive navbar.
 - adding effects and transitions on hover.
-
-Based on [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) by Shaun Pelling - The Net Ninja (2020).
